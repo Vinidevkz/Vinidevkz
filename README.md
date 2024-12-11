@@ -21,5 +21,3 @@ Email para contato: viniciuseduardo.01125@gmail.com
   <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div><br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinidevkz&hide_progress=true)
