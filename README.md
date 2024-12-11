@@ -9,11 +9,6 @@ Email para contato: viniciuseduardo.01125@gmail.com
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-eduardo2024/)
 <hr>
 
-
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinidevkz&show_icons=true&theme=dracula)
-
-<hr>
-
 ### Tecnologias que utilizo:
 
 <div style="display: inline_block"><br>
@@ -28,18 +23,3 @@ Email para contato: viniciuseduardo.01125@gmail.com
 </div><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinidevkz&hide_progress=true)
-
-<hr>
-
-
-
-
-
-
-
-
-
-
-
-
-
