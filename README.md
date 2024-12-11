@@ -4,9 +4,6 @@ Sou desenvolvedor Full-Stack e Mobile utilizando React Native.
 
 Email para contato: viniciuseduardo.01125@gmail.com
 <br>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arteddev/)
-[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-eduardo2024/)
 <hr>
 
 ### Tecnologias que utilizo:
