@@ -1,6 +1,6 @@
 ### Olá, me chamo Vinicius Eduardo 👋🏻
 
-Sou estudante de programação na instituição de ensino Etec de Guainases e busco aprender e evoluir nessa área. 
+Sou desenvolvedor Full-Stack e Mobile utilizando React Native.
 
 <br>
 
@@ -14,7 +14,6 @@ Sou estudante de programação na instituição de ensino Etec de Guainases e bu
 <hr>
 
 ### Tecnologias que utilizo:
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
