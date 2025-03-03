@@ -1,6 +1,6 @@
 ### Olá, me chamo Vinicius Eduardo 👋🏻
 
-Sou desenvolvedor Full-Stack e Mobile utilizando React Native.
+Desenvolvedor Full-Stack e Mobile utilizando React Native e NodeJS.
 
 Email para contato: viniciuseduardo.01125@gmail.com
 <br>
