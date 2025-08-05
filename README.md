@@ -3,7 +3,7 @@
 
 ###
 
-<p align="center">Meu nome é Vinicius Eduardo, tenho 19 anos e sou desenvolvedor Backend e atualmente estou cursando Análise e Desenvolvimento de Sistemas na instituição Fatec.</p>
+<p align="center">Meu nome é Vinicius Eduardo, tenho 19 anos e sou desenvolvedor Backend. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na instituição Fatec.</p>
 
 ###
 
