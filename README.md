@@ -1,49 +1,39 @@
-<h1 data-importer="text" align="center">Vinicius Eduardo Correia dos Santos</h1>
-
-###
-
-<p data-importer="text" align="center">Estudante de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Backend.</p>
-
-###
-
-<p data-importer="text" align="center">Possuo experiência prática em projetos acadêmicos e pessoais utilizando Java, Spring Boot, SQL e bancos de dados NoSQL.</p>
-
-###
-
-###
-
-<br clear="both">
-
-<h2 data-importer="text" align="left">Contato:</h2>
-
-###
-
-<p data-importer="text" align="left">• Email: viniciuseduardo.01125@gmail.com<br>• Telefone/Whatsapp: (11) 95168-4161<br>• LinkedIn: www.linkedin.com/in/vinicius-eduardo2026/</p>
-
-###
-
-<h2 data-importer="text" align="left">Stack Tecnológica:</h2>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+<div align="center">
+  <h1>Vinicius Eduardo</h1>
+  <h3 style="color:#f89820;">Java Developer</h3>
+  <p>Java • Backend Development • Software Engineering</p>
 </div>
 
-###
+---
+
+## Sobre Mim
+
+Desenvolvedor com foco em **Java e desenvolvimento backend**. Possuo **experiência prática** em **projetos acadêmicos e pessoais utilizando** Java, Spring Boot, SQL e bancos de dados NoSQL.
+
+---
+
+## Formação
+
+* **Análise e Desenvolvimento de Sistemas (ADS - Tecnólogo)** — Cursando
+* **Desenvolvimento de Sistemas (DS - Técnico)** — Completo
+
+---
+
+## Stack Tecnológica
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,idea,postgres,mysql,git,docker,linux,windows" />
+</p>
+
+---
+
+## Contato
+
+<div align="center">
+<a href="https://www.linkedin.com/in/vinicius-eduardo2026/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:viniciuseduardo.01125@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</div>
