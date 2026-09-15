@@ -1,39 +1,9 @@
-<div align="center">
-  <h1>Vinicius Eduardo</h1>
-  <h3 style="color:#f89820;">Java Developer</h3>
-  <p>Java • Backend Development • Software Engineering</p>
-</div>
 
----
+# **Olá, me chamo Vinicius!**
 
-## Sobre Mim
+#### Desenvolvedor Back-end Java e estudante de ADS.
 
-Desenvolvedor com foco em **Java e desenvolvimento backend**. Possuo **experiência prática** em **projetos acadêmicos e pessoais utilizando** Java, Spring Boot, SQL e bancos de dados NoSQL.
-
----
-
-## Formação
-
-* **Análise e Desenvolvimento de Sistemas (ADS - Tecnólogo)** — Cursando
-* **Desenvolvimento de Sistemas (DS - Técnico)** — Completo
-
----
-
-## Stack Tecnológica
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,idea,postgres,mysql,git,docker,linux,windows" />
-</p>
-
----
-
-## Contato
-
-<div align="center">
-<a href="https://www.linkedin.com/in/vinicius-eduardo2026/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:viniciuseduardo.01125@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</div>
+### 🔗 Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-eduardo2026) 
+[![email](https://img.shields.io/badge/email-f74f43?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciuseduardo.01125@gmail.com)
+[![telefone](https://img.shields.io/badge/whatsapp-1DA1F?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511951684161)
